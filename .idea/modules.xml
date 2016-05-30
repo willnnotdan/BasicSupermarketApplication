@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BasicSupermarketApplication.iml" filepath="$PROJECT_DIR$/.idea/BasicSupermarketApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicEngine/LogicEngine.iml" filepath="$PROJECT_DIR$/LogicEngine/LogicEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionReporting/TransactionReporting.iml" filepath="$PROJECT_DIR$/TransactionReporting/TransactionReporting.iml" />
+    </modules>
+  </component>
+</project>

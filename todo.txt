@@ -1,0 +1,10 @@
+TODO:
+ - Stock
+ - Caclulations
+  - Round up to penny
+  - Deals
+  - Weight conversions
+ - Transaction Reporting
+ - Authentication
+ - GUI? 
+ - Spring stuff??
