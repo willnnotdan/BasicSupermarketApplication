@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c80e2a3-26fa-476c-a3d9-a5501669b031" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_assertj_assertj_core_3_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/BasicSupermarketApplication.iml" afterPath="$PROJECT_DIR$/.idea/BasicSupermarketApplication.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicEngine/LogicEngine.iml" afterPath="$PROJECT_DIR$/LogicEngine/LogicEngine.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicEngine/src/com/wbc/bsa/le/CostCalculator.java" afterPath="$PROJECT_DIR$/LogicEngine/src/com/wbc/bsa/le/CostCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LogicEngine/test/com/wbc/bsa/le/CostCalculatorTest.java" afterPath="$PROJECT_DIR$/LogicEngine/test/com/wbc/bsa/le/CostCalculatorTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TransactionReporting/TransactionReporting.iml" afterPath="$PROJECT_DIR$/TransactionReporting/TransactionReporting.iml" />
     </list>
     <ignored path="BasicSupermarketApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,13 +28,15 @@
         <entry file="file://$PROJECT_DIR$/LogicEngine/src/com/wbc/bsa/le/CostCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#275#276#0" expanded="true" />
                 <element signature="e#338#339#0" expanded="true" />
                 <element signature="e#379#380#0" expanded="true" />
                 <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,8 +45,8 @@
       <file leaf-file-name="CostCalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LogicEngine/test/com/wbc/bsa/le/CostCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80487806">
-              <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.83902436">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#284#285#0" expanded="true" />
@@ -81,8 +77,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LogicEngine/src/com/wbc/bsa/le/CostCalculator.java" />
         <option value="$PROJECT_DIR$/LogicEngine/test/com/wbc/bsa/le/CostCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/LogicEngine/src/com/wbc/bsa/le/CostCalculator.java" />
       </list>
     </option>
   </component>
@@ -673,6 +669,9 @@
     <history-entry file="CostCalculatorTest - 2016.05.31 at 12h 08m 05s.xml">
       <configuration name="CostCalculatorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CostCalculatorTest - 2016.05.31 at 12h 14m 37s.xml">
+      <configuration name="CostCalculatorTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="CostCalculatorTest_test - 2016.05.31 at 00h 23m 44s.xml">
       <configuration name="CostCalculatorTest.test" configurationId="JUnit" />
     </history-entry>
@@ -727,6 +726,8 @@
             <element signature="e#338#339#0" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
             <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -754,21 +755,23 @@
     <entry file="file://$PROJECT_DIR$/LogicEngine/src/com/wbc/bsa/le/CostCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
             <element signature="e#338#339#0" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
             <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LogicEngine/test/com/wbc/bsa/le/CostCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80487806">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.83902436">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#284#285#0" expanded="true" />

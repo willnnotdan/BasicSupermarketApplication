@@ -28,4 +28,9 @@ public class CostCalculatorTest {
         assertThat(costCalculator.costOf(4.922)).isEqualTo(4.93);
     }
 
+    @Test
+    public void calculatesCostBasedOnWeightAndCostPerWeight() {
+        assertThat(costCalculator.costOf(3.05, 4.99)).isEqualTo(15.22);
+    }
+
 }

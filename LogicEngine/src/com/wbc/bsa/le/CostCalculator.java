@@ -17,4 +17,8 @@ public class CostCalculator {
     public double costOf(double cost) {
         return Double.parseDouble(DECIMAL_FORMAT.format(cost));
     }
+
+    public double costOf(double massInKg, double costPerKg) {
+        return costOf(massInKg * costPerKg);
+    }
 }
